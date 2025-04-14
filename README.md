@@ -10,37 +10,42 @@ J’aime concevoir des applications **robustes**, **scalables** et **évolutives
 ## 🛠️ Mes compétences techniques
 
 ### 💻 Langages de programmation
-- ☕ Java  
-- 🧠 C / C++  
-- 🌐 JavaScript / TypeScript  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🎨 Développement Frontend
-- 🖌️ HTML / CSS  
-- 💨 Tailwind CSS  
-- ⚛️ React  
-- 🅰️ Angular  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🔧 Développement Backend
-- 🌱 Spring Boot  
-- 🧱 Symfony  
-- 🧩 Node.js  
-- 🚂 Express.js  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Bases de données
-- 🐬 MySQL  
-- 🍃 MongoDB  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🚀 DevOps & CI/CD
-- 🐳 Docker & Docker Hub  
-- 📦 Containerisation  
-- 🔄 CI/CD Pipeline  
-- ⚙️ Jenkins  
-- 🧽 SonarQube  
-- 📡 Nexus  
-- 📊 Prometheus & Grafana  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2291E6?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-000000?style=for-the-badge&logo=sonatype&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-A8B9CC?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🖥️ Systèmes d'exploitation
-- 🐧 Ubuntu / Linux  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -53,20 +58,21 @@ J’aime concevoir des applications **robustes**, **scalables** et **évolutives
 
 ## 🚀 Projets à découvrir
 
-### 🍽️ **Application Web - Distribution Project**
+### 🍽️ [**Application Web - Distribution Project**](https://github.com/Application-Web-Distribution-Project/Application_Web_Distibue)
 Projet microservices de gestion de commandes pour un restaurant  
-🔧 Tech : Spring Boot, Angular, API Gateway, Eureka  
-📐 Architecture distribuée pour une meilleure scalabilité  
+🔧 Stack : Spring Boot, Angular, API Gateway, Eureka  
+📐 Architecture distribuée pour une meilleure scalabilité
 
 ### 🅿️ [**Parkini**](https://github.com/PiDev-2025/Parkini)  
 Système de gestion de stationnement intelligent  
-⚙️ Express.js + React, CI/CD avec Jenkins, SonarQube, Docker Hub  
-📊 Monitoring via Prometheus et Grafana  
+⚙️ Express.js + React  
+🔁 Pipeline CI/CD : Jenkins, SonarQube, Docker Hub  
+📊 Monitoring : Prometheus, Grafana
 
-### 🧪 **DevOps Project**  
+### 🧪 [**DevOps Project**](https://github.com/marwaniiwael18/DEVOPS-Project/tree/Aymenjallouli_4twin3_thunder) 
 Pipeline CI/CD robuste pour projets professionnels  
-🔧 Stack : Jenkins, SonarQube, Nexus, Docker, Prometheus, Grafana  
+🔧 Stack : Jenkins, SonarQube, Nexus, Docker  
+📈 Monitoring avec Prometheus & Grafana  
 🎯 Objectif : Qualité, fiabilité, automatisation
 
 ---
-
