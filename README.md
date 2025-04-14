@@ -24,9 +24,10 @@ Email: aymen.jallouli@esprit.tn
 
 🚀 Projets à découvrir
 Voici quelques-uns de mes projets dont je suis particulièrement fier :
-Application-Web-Distribution-Project
+
+[Application-Web-Distribution-Project](https://github.com/Application-Web-Distribution-Project/Application_Web_Distibue)
 Projet microservice de gestion de commande dans un restaurant utilisant API Gateway, Eureka, Spring Boot et Angular. Architecture distribuée pour une application scalable et performante.
-Smart Parking Management
+https://github.com/PiDev-2025/Parkini
 Système de gestion de stationnement intelligent développé avec Express.js et React. Inclut une pipeline CI/CD complète utilisant Jenkins, SonarQube, Docker Hub, Prometheus et Grafana pour le monitoring.
-DevOps Project
+[DevOps Project](https://github.com/marwaniiwael18/DEVOPS-Project)
 Projet axé sur les tests et l'implémentation d'une pipeline CI/CD robuste. Utilise Jenkins, SonarQube, Nexus, Docker, Prometheus et Grafana pour assurer qualité et déploiement continu.
