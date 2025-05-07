@@ -64,6 +64,7 @@ Projet microservices de gestion de commandes pour un restaurant
 📐 Architecture distribuée pour une meilleure scalabilité
 
 ### 🅿️ [**Parkini**](https://github.com/PiDev-2025/Parkini)  
+###     [**Live**](https://front-end-front-office.vercel.app)
 Système de gestion de stationnement intelligent  
 ⚙️ Express.js + React  
 🔁 Pipeline CI/CD : Jenkins, SonarQube, Docker Hub  
