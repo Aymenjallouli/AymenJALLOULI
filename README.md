@@ -51,7 +51,7 @@ J’aime concevoir des applications **robustes**, **scalables** et **évolutives
 
 ## 📫 Comment me contacter
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ton-profil)  
+- 🔗 [LinkedIn](www.linkedin.com/in/aymen-jallouli-713534254)  
 - 📧 Email : aymen.jallouli@esprit.tn
 
 ---
