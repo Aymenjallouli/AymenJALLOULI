@@ -63,8 +63,8 @@ Projet microservices de gestion de commandes pour un restaurant
 🔧 Stack : Spring Boot, Angular, API Gateway, Eureka  
 📐 Architecture distribuée pour une meilleure scalabilité
 
-### 🅿️ [**Parkini**]([https://github.com/PiDev-2025/Parkini])  
-###     [**Live**]([https://parkini-smart-dashboard.onrender.com])
+### 🅿️ [**Ai-Smart-Dashbord**]([https://github.com/Aymenjallouli/Ai-Dashboard-Ml.git])
+###[**Live**](https://parkini-smart-dashboard.onrender.com)
 Système de prédiction intelligent pour la durée de stationnement et l'occupation des places de parking.
 ### Backend
 - Flask - Framework web Python
@@ -77,7 +77,8 @@ Système de prédiction intelligent pour la durée de stationnement et l'occupat
 - Axios - Client HTTP pour les requêtes API
 - Chart.js - Bibliothèque de visualisation
 
-### 🅿️ [**Ai-Smart-Dashbord**]([https://github.com/Aymenjallouli/Ai-Dashboard-Ml.git])  
+  
+### 🅿️ [**Parkini**](https://github.com/PiDev-2025/Parkini) 
 ###     [**Live**](https://front-end-front-office.vercel.app)
 Système de gestion de stationnement intelligent  
 ⚙️ Express.js + React  
