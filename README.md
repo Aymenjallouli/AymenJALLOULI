@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4F46E5&height=150&section=header&text=Wel%20come&fontSize=45&fontColor=FFFFFF&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4F46E5&height=150&section=header&text=WELCOME&fontSize=45&fontColor=FFFFFF&animation=twinkling" alt="Header" />
 </p>
 
 ---
