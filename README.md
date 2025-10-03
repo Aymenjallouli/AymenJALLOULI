@@ -1,242 +1,213 @@
-<div align="center">
-
-# 👨‍💻 Aymen Jallouli
-
-### Full-Stack Software Engineer | DevOps Enthusiast | Cloud Architecture
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-jallouli-713534254/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aymen.jallouli@esprit.tn)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Aymenjallouli)
-
-</div>
-
----
-
-## 🎯 Professional Summary
-
-Passionate full-stack developer with expertise in building **scalable**, **resilient**, and **high-performance** applications. Specialized in modern web technologies, microservices architecture, and DevOps practices. Committed to delivering clean, maintainable code while following industry best practices and software design principles.
-
----
-
 ## 💼 Technical Expertise
 
-### Core Programming Languages
-```text
-Java          ████████████████████░   95%
-JavaScript/TS ███████████████████░░   90%
-C/C++         ████████████████░░░░░   80%
-Python        ███████████████░░░░░░   75%
-PHP           ██████████████░░░░░░░   70%
-```
+### 🔤 Core Programming Languages
+
+<div align="center">
+
+| Language | Proficiency | Experience Level |
+|----------|-------------|------------------|
+| **Java** | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ | Expert (95%) |
+| **JavaScript/TypeScript** | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ | Expert (90%) |
+| **C/C++** | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ | Advanced (80%) |
+| **Python** | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ | Advanced (75%) |
+| **PHP** | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ | Proficient (70%) |
+
+</div>
+
+---
 
 ### 🎨 Frontend Development
+
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Frameworks & Libraries**
-- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) React.js
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) Angular
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) Next.js
-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D) Vue.js
+#### **Frameworks & Libraries**
+
+| Technology | Level |
+|------------|-------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ⭐⭐⭐⭐⭐ |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ⭐⭐⭐⭐☆ |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) | ⭐⭐⭐⭐☆ |
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Styling & UI**
-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap
-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white) Material-UI
-- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) Sass/SCSS
+#### **Styling & Design Systems**
+
+| Technology | Level |
+|------------|-------|
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| ![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white) | ⭐⭐⭐⭐☆ |
+| ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) | ⭐⭐⭐⭐☆ |
 
 </td>
 </tr>
 </table>
+
+---
 
 ### ⚙️ Backend Development
+
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Java Ecosystem**
-- ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) Spring Boot
-- ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white) Spring Cloud
-- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) Hibernate/JPA
+#### **Java Ecosystem**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Node.js Ecosystem**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) Node.js
-- ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) Express.js
-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) NestJS
+#### **Node.js Ecosystem**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**PHP Ecosystem**
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) Laravel
-- ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) Symfony
+#### **PHP Ecosystem**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-**Python Ecosystem**
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) Django
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) Flask
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) FastAPI
+#### **Python Ecosystem**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-### 🗄️ Database & Caching
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+---
+
+### 🗄️ Database & Caching Solutions
+
+<div align="center">
+
+#### **Relational Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### **NoSQL & Caching**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+---
 
 ### 🔄 DevOps & Cloud Infrastructure
+
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="33%" valign="top" align="center">
 
-**Containerization**
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) Kubernetes
-- ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white) Docker Compose
+#### **🐳 Containerization**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**CI/CD & Automation**
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) Jenkins
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) GitHub Actions
-- ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white) GitLab CI
+![Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td width="33%" valign="top" align="center">
 
-**Monitoring & Quality**
-- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) Prometheus
-- ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) Grafana
-- ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) SonarQube
+#### **🚀 CI/CD Pipeline**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### **📊 Monitoring & Quality**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-### 🏗️ Architecture & Design Patterns
-- 🎯 Microservices Architecture
-- 🔄 RESTful API Design
-- 📡 Event-Driven Architecture
-- 🧩 Domain-Driven Design (DDD)
-- 🏭 Design Patterns (Factory, Singleton, Observer, etc.)
-- 🔐 OAuth2 & JWT Authentication
-
 ---
 
-## 🚀 Featured Projects
+### 🏗️ Architecture & Design Principles
 
-### 🤖 [AI Smart Dashboard](https://github.com/Aymenjallouli/Ai-Dashboard-Ml) • [Live Demo](https://parkini-smart-dashboard.onrender.com)
-> Intelligent parking prediction system using machine learning
+<div align="center">
 
-**Tech Stack:** Flask • React • Scikit-learn • XGBoost • Material-UI • Chart.js  
-**Features:**
-- ML-powered parking duration prediction
-- Real-time occupancy forecasting
-- Interactive data visualization dashboard
-- RESTful API for predictions
-
----
-
-### 🅿️ [Parkini - Smart Parking System](https://github.com/PiDev-2025/Parkini) • [Live Demo](https://front-end-front-office.vercel.app)
-> End-to-end intelligent parking management solution
-
-**Tech Stack:** Express.js • React • Jenkins • Docker • Prometheus • Grafana  
-**Architecture:**
-- Complete CI/CD pipeline with automated testing
-- Containerized microservices deployment
-- Real-time monitoring and alerting
-- Code quality gates with SonarQube
-
-**DevOps Pipeline:**
 ```mermaid
-graph LR
-A[Git Push] --> B[Jenkins Build]
-B --> C[SonarQube Analysis]
-C --> D[Docker Build]
-D --> E[Push to Registry]
-E --> F[Deploy]
-F --> G[Prometheus/Grafana Monitoring]
+mindmap
+  root((Architecture
+    Expertise))
+    Microservices
+      Service Discovery
+      API Gateway
+      Load Balancing
+    API Design
+      RESTful APIs
+      GraphQL
+      gRPC
+    Patterns
+      DDD
+      CQRS
+      Event Sourcing
+    Security
+      OAuth2
+      JWT
+      Role Based Access
+    Messaging
+      Event Driven
+      Message Queues
+      Pub/Sub
 ```
 
----
-
-### 🍽️ [Distributed Restaurant Management System](https://github.com/Application-Web-Distribution-Project/Application_Web_Distibue)
-> Scalable microservices architecture for restaurant order management
-
-**Tech Stack:** Spring Boot • Angular • Eureka • API Gateway • RabbitMQ  
-**Architecture Highlights:**
-- Service discovery with Netflix Eureka
-- Centralized API Gateway routing
-- Event-driven communication
-- Distributed transaction management
-- Load balancing and fault tolerance
-
----
-
-### 🔧 [Enterprise DevOps Pipeline](https://github.com/marwaniiwael18/DEVOPS-Project/tree/Aymenjallouli_4twin3_thunder)
-> Production-ready CI/CD infrastructure
-
-**Tech Stack:** Jenkins • SonarQube • Nexus • Docker • Prometheus • Grafana  
-**Implementation:**
-- Automated build and deployment workflows
-- Artifact management with Nexus Repository
-- Security scanning and vulnerability detection
-- Performance metrics and application monitoring
-- Infrastructure as Code (IaC)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymenjallouli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenjallouli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aymenjallouli&theme=radical&hide_border=true&background=0D1117)
-
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Architectural Patterns**
+- 🎯 Microservices Architecture
+- 🏛️ Domain-Driven Design (DDD)
+- 📡 Event-Driven Architecture
+- 🔄 CQRS & Event Sourcing
+- 🧅 Layered Architecture
+
+</td>
+<td width="50%" valign="top">
+
+**Design & Best Practices**
+- 🏭 Gang of Four Design Patterns
+- 🔐 Security Best Practices (OAuth2, JWT)
+- 🧪 Test-Driven Development (TDD)
+- 📚 Clean Code Principles
+- 🔄 RESTful API Design Standards
+
+</td>
+</tr>
+</table>
+
 ---
-
-## 🎓 Continuous Learning
-
-Currently exploring:
-- 🔐 Advanced Kubernetes orchestration
-- ☁️ AWS/Azure cloud architectures
-- 🧠 Machine Learning operations (MLOps)
-- 🔄 GraphQL and Apollo Federation
-- 🌐 Web3 and blockchain technologies
-
----
-
-## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-jallouli-713534254/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymen.jallouli@esprit.tn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+### 🎯 Areas of Specialization
 
-**Open to collaboration on innovative projects and exciting opportunities!**
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aymenjallouli&color=blueviolet&style=flat-square&label=Profile+Views)
+| Domain | Key Technologies | Experience |
+|--------|-----------------|------------|
+| **Full-Stack Development** | MERN, Spring Boot + Angular, Laravel + Vue | ⭐⭐⭐⭐⭐ |
+| **Microservices** | Spring Cloud, Docker, Kubernetes, Service Mesh | ⭐⭐⭐⭐⭐ |
+| **DevOps Engineering** | CI/CD Pipelines, Infrastructure as Code, Monitoring | ⭐⭐⭐⭐⭐ |
+| **Cloud Architecture** | Distributed Systems, Scalability, High Availability | ⭐⭐⭐⭐☆ |
+| **Machine Learning Ops** | Model Deployment, ML Pipelines, Prediction APIs | ⭐⭐⭐⭐☆ |
 
 </div>
