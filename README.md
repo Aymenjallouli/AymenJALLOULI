@@ -1,31 +1,28 @@
-<!-- HERO HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <!-- Animated typing (width increased to avoid missing letters) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=900&color=4F46E5&center=true&width=980&vCenter=true&lines=Bonjour+%F0%9F%91%8B,+je+suis+Aymen+Jallouli;Full-Stack+Developer+%26+DevOps+Engineer;UX-focused+%7C+Scalable+Architectures" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&lines=👋+Salut,+je+suis+Aymen+Jallouli;🚀+Full-Stack+Developer+%26+DevOps+Engineer;🎨+Passionné+par+UX+Design+%26+Architecture+Scalable" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4F46E5&height=160&section=header&text=Aymen%20Jallouli&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="Aymen Jallouli" />
-</p>
-
----
-
-# 👨‍💻 À propos
-
-<p align="center">
-Je suis <strong>Aymen Jallouli</strong>, développeur <strong>Full-Stack & DevOps</strong> orienté **UX** et **architecture scalable**.  
-J'accompagne la transformation d'idées en produits numériques fiables et agréables à utiliser : code propre, tests, CI/CD et interfaces centrées utilisateur.
-</p>
-
-<p align="center">
-<strong>Compétences clés :</strong> Conception d'API, microservices, déploiement conteneurisé, monitoring & observabilité, et amélioration continue de l'expérience utilisateur.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4F46E5&height=150&section=header&text=Aymen%20Jallouli&fontSize=45&fontColor=FFFFFF&animation=twinkling" alt="Header" />
 </p>
 
 ---
 
-# 🛠️ Stack & Compétences
+## 👨‍💻 À propos de moi
 
-<h3 align="center">💻 Langages</h3>
+Développeur **Full-Stack & DevOps**, je conçois et déploie des applications **robustes**, **scalables** et **orientées expérience utilisateur**.  
+Mon objectif est de transformer des idées en solutions fiables grâce à :  
+✔️ du code propre et maintenable  
+✔️ des architectures modernes (microservices, cloud-native)  
+✔️ des pipelines CI/CD automatisés  
+✔️ une attention particulière au **design et à l’UX**  
+
+---
+
+## 🛠️ Stack & Compétences
+
+### 💻 Langages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -35,7 +32,7 @@ J'accompagne la transformation d'idées en produits numériques fiables et agré
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h3 align="center">🎨 Frontend</h3>
+### 🎨 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,7 +41,7 @@ J'accompagne la transformation d'idées en produits numériques fiables et agré
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-<h3 align="center">🔧 Backend</h3>
+### 🔧 Backend
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
@@ -55,14 +52,14 @@ J'accompagne la transformation d'idées en produits numériques fiables et agré
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-<h3 align="center">🗄️ Bases de données</h3>
+### 🗄️ Bases de données
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<h3 align="center">🚀 DevOps & Observabilité</h3>
+### 🚀 DevOps & Observabilité
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -74,52 +71,53 @@ J'accompagne la transformation d'idées en produits numériques fiables et agré
 
 ---
 
-# 🚀 Projets phares
+## 🚀 Projets phares
 
 ### 🍽️ [**Application Web - Distribution Project**](https://github.com/Application-Web-Distribution-Project/Application_Web_Distibue)  
-**Microservices** pour la gestion de commandes (restaurants) — architecture distribuée, discovery, gateway et scalabilité.  
+> Microservices de gestion de commandes pour restaurants.  
 **Stack :** Spring Boot | Angular | API Gateway | Eureka
 
 ---
 
 ### 📊 [**AI Smart Dashboard**](https://github.com/Aymenjallouli/Ai-Dashboard-Ml.git) — [Live](https://parkini-smart-dashboard.onrender.com)  
-Dashboard prédictif pour la durée de stationnement et l’occupation.  
-**Backend :** Flask, Scikit-learn, XGBoost | **Frontend :** React, Material-UI, Chart.js
+> Dashboard prédictif (durée de stationnement & occupation).  
+**Backend :** Flask, Scikit-learn, Pandas, XGBoost  
+**Frontend :** React, Material-UI, Chart.js  
 
 ---
 
 ### 🅿️ [**Parkini**](https://github.com/PiDev-2025/Parkini) — [Live](https://front-end-front-office.vercel.app)  
-Système intelligent de gestion de parking, monitoring et pipeline CI/CD complet.  
-**Stack :** Express.js + React — CI/CD : Jenkins, SonarQube, Docker Hub — Observabilité : Prometheus & Grafana
+> Système intelligent de gestion de parking.  
+**Stack :** Express.js + React  
+**CI/CD :** Jenkins | SonarQube | Docker Hub  
+**Monitoring :** Prometheus | Grafana  
 
 ---
 
 ### 🧪 [**DevOps Project**](https://github.com/marwaniiwael18/DEVOPS-Project/tree/Aymenjallouli_4twin3_thunder)  
-Pipeline CI/CD professionnel pour automatiser la qualité et le déploiement.  
-**Stack :** Jenkins, SonarQube, Nexus, Docker
+> Pipeline CI/CD robuste pour projets pro.  
+**Stack :** Jenkins | SonarQube | Nexus | Docker  
 
 ---
 
-# 📊 Stats GitHub
+## 📊 Mes Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymenjallouli&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymenjallouli&theme=tokyonight&hide_border=true" height="160" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aymenjallouli&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymenjallouli&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
 
-# 📫 Me contacter
+## 📫 Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aymen-jallouli-713534254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aymen.jallouli@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/aymen-jallouli-713534254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aymen.jallouli@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:38B2AC&height=80&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:38B2AC&height=100&section=footer" />
 </p>
-
-<!-- NOTE: Si l'animation typing manque encore des lettres sur GitHub, augmentez la valeur `width` dans l'URL du SVG (par ex. width=1100). -->
