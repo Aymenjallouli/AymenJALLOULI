@@ -1,6 +1,6 @@
-<!-- HEADER -->
+<!-- HERO HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&lines=👋+Salut,+je+suis+Aymen+Jallouli;🚀+Full-Stack+Developer+%26+DevOps+Engineer;🎨+Passionné+par+UX+Design+%26+Architecture+Scalable" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&lines=👋+Hi,+I’m+Aymen+Jallouli;🚀+Full-Stack+Developer+%26+DevOps+Engineer;🎨+Passionate+about+UX+%26+Scalable+Architecture" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -9,20 +9,21 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
-Développeur **Full-Stack & DevOps**, je conçois et déploie des applications **robustes**, **scalables** et **orientées expérience utilisateur**.  
-Mon objectif est de transformer des idées en solutions fiables grâce à :  
-✔️ du code propre et maintenable  
-✔️ des architectures modernes (microservices, cloud-native)  
-✔️ des pipelines CI/CD automatisés  
-✔️ une attention particulière au **design et à l’UX**  
+I am **Aymen Jallouli**, a **Full-Stack & DevOps Engineer** passionate about building **robust, scalable, and user-friendly applications**.  
+I help transform ideas into **reliable software solutions** with:  
+
+- ✅ Clean, maintainable, and efficient code  
+- ✅ Modern architectures (microservices, cloud-native)  
+- ✅ Automated CI/CD pipelines  
+- ✅ UX-driven interfaces  
 
 ---
 
-## 🛠️ Stack & Compétences
+## 🛠️ Skills & Expertise
 
-### 💻 Langages
+### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -32,7 +33,7 @@ Mon objectif est de transformer des idées en solutions fiables grâce à :
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,7 +42,7 @@ Mon objectif est de transformer des idées en solutions fiables grâce à :
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-### 🔧 Backend
+### 🔧 Backend Development & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
@@ -52,14 +53,14 @@ Mon objectif est de transformer des idées en solutions fiables grâce à :
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### 🗄️ Bases de données
+### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🚀 DevOps & Observabilité
+### 🚀 DevOps & Cloud Expertise
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -71,36 +72,36 @@ Mon objectif est de transformer des idées en solutions fiables grâce à :
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Featured Projects
 
-### 🍽️ [**Application Web - Distribution Project**](https://github.com/Application-Web-Distribution-Project/Application_Web_Distibue)  
-> Microservices de gestion de commandes pour restaurants.  
-**Stack :** Spring Boot | Angular | API Gateway | Eureka
-
----
-
-### 📊 [**AI Smart Dashboard**](https://github.com/Aymenjallouli/Ai-Dashboard-Ml.git) — [Live](https://parkini-smart-dashboard.onrender.com)  
-> Dashboard prédictif (durée de stationnement & occupation).  
-**Backend :** Flask, Scikit-learn, Pandas, XGBoost  
-**Frontend :** React, Material-UI, Chart.js  
+### 🍽️ [**Web Distribution Application**](https://github.com/Application-Web-Distribution-Project/Application_Web_Distibue)  
+> Microservices-based restaurant order management system.  
+**Tech Stack:** Spring Boot | Angular | API Gateway | Eureka  
 
 ---
 
-### 🅿️ [**Parkini**](https://github.com/PiDev-2025/Parkini) — [Live](https://front-end-front-office.vercel.app)  
-> Système intelligent de gestion de parking.  
-**Stack :** Express.js + React  
-**CI/CD :** Jenkins | SonarQube | Docker Hub  
-**Monitoring :** Prometheus | Grafana  
+### 📊 [**AI Smart Dashboard**](https://github.com/Aymenjallouli/Ai-Dashboard-Ml.git) — [Live Demo](https://parkini-smart-dashboard.onrender.com)  
+> Predictive parking dashboard (duration & availability).  
+**Backend:** Flask, Scikit-learn, Pandas, XGBoost  
+**Frontend:** React, Material-UI, Chart.js  
 
 ---
 
-### 🧪 [**DevOps Project**](https://github.com/marwaniiwael18/DEVOPS-Project/tree/Aymenjallouli_4twin3_thunder)  
-> Pipeline CI/CD robuste pour projets pro.  
-**Stack :** Jenkins | SonarQube | Nexus | Docker  
+### 🅿️ [**Parkini**](https://github.com/PiDev-2025/Parkini) — [Live Demo](https://front-end-front-office.vercel.app)  
+> Intelligent parking management system.  
+**Stack:** Express.js + React  
+**CI/CD:** Jenkins | SonarQube | Docker Hub  
+**Monitoring:** Prometheus | Grafana  
 
 ---
 
-## 📊 Mes Stats GitHub
+### 🧪 [**DevOps Automation Project**](https://github.com/marwaniiwael18/DEVOPS-Project/tree/Aymenjallouli_4twin3_thunder)  
+> Professional CI/CD pipeline for automation and quality control.  
+**Stack:** Jenkins | SonarQube | Nexus | Docker  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aymenjallouli&show_icons=true&theme=radical&hide_border=true" height="160" />
@@ -109,7 +110,7 @@ Mon objectif est de transformer des idées en solutions fiables grâce à :
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aymen-jallouli-713534254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
