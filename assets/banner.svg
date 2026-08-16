@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Aymen Jallouli — Full-Stack and DevOps Engineer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38B2AC"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+
+    <linearGradient id="accentFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38B2AC" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38B2AC" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 L0 0 0 28" fill="none" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="320" rx="18" fill="#0B1120"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <!-- left accent rail -->
+  <rect x="0" y="60" width="5" height="200" rx="2.5" fill="url(#accent)"/>
+
+  <!-- ── node graph (right side) ── -->
+  <g stroke="url(#accentFade)" stroke-width="1.5" fill="none" opacity="0.85">
+    <path d="M980 90 L1080 150"/>
+    <path d="M980 90 L900 170"/>
+    <path d="M1080 150 L1020 240"/>
+    <path d="M900 170 L1020 240"/>
+    <path d="M900 170 L1080 150"/>
+    <path d="M1020 240 L930 265"/>
+  </g>
+  <g fill="#0B1120" stroke="#38B2AC" stroke-width="2.5">
+    <circle cx="980" cy="90" r="11"/>
+    <circle cx="1080" cy="150" r="8"/>
+    <circle cx="900" cy="170" r="8"/>
+  </g>
+  <g fill="#0B1120" stroke="#4F46E5" stroke-width="2.5">
+    <circle cx="1020" cy="240" r="11"/>
+    <circle cx="930" cy="265" r="7"/>
+  </g>
+  <g fill="#38B2AC">
+    <circle cx="980" cy="90" r="3.5"/>
+  </g>
+  <g fill="#4F46E5">
+    <circle cx="1020" cy="240" r="3.5"/>
+  </g>
+
+  <!-- ── text block ── -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+
+    <text x="58" y="98" font-size="15" font-weight="600" letter-spacing="4.5" fill="#38B2AC">
+      FULL-STACK &amp; DEVOPS ENGINEER
+    </text>
+
+    <text x="55" y="176" font-size="62" font-weight="700" letter-spacing="-1" fill="#F1F5F9">
+      Aymen Jallouli
+    </text>
+
+    <rect x="58" y="200" width="86" height="4" rx="2" fill="url(#accent)"/>
+
+    <text x="58" y="240" font-size="19" fill="#94A3B8">
+      Microservices · Cloud-Native · CI/CD · Observability
+    </text>
+
+    <!-- portfolio chip -->
+    <rect x="56" y="262" width="212" height="34" rx="17" fill="#111C33" stroke="#334155" stroke-width="1"/>
+    <circle cx="78" cy="279" r="4.5" fill="#38B2AC"/>
+    <text x="94" y="285" font-size="15" font-weight="600" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" fill="#CBD5E1">
+      aymenjallouli.dev
+    </text>
+
+  </g>
+</svg>
